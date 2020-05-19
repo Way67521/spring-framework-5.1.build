@@ -24,6 +24,8 @@ import org.springframework.lang.Nullable;
  *
  * @author Rob Harrop
  * @since 2.0
+ *
+ * 提供对BeanDefinition信息的额外扩展（也称之为元数据）
  */
 public interface AttributeAccessor {
 
